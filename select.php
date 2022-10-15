@@ -74,9 +74,5 @@
     </p>
     <p><input type="submit" name="submitButton" value="表示"></p>
   </form>
-  <?php
-
-  ?>
 </body>
-
 </html>
